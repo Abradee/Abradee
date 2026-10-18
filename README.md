@@ -8,7 +8,11 @@ Primarily a backend developer who builds apps and Minecraft plugins · UTC+8
 
 ### 🔭 I'm currently working on
 
-<a href="https://github.com/Abradee"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Abradee&repo=PROJECT_NAME&theme=dark&hide_border=true&description_lines_count=2" alt="Project" /></a>
+<a href="https://github.com/Abradee/SimplyElo"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Abradee&repo=SimplyElo&theme=dark&hide_border=true&description_lines_count=2" alt="SimplyElo" /></a>
+<a href="https://github.com/Abradee/JoinLeavePlus"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Abradee&repo=JoinLeavePlus&theme=dark&hide_border=true&description_lines_count=2" alt="JoinLeavePlus" /></a>
+<br/>
+<a href="https://github.com/Abradee/SimplyNotifier"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Abradee&repo=SimplyNotifier&theme=dark&hide_border=true&description_lines_count=2" alt="SimplyNotifier" /></a>
+<a href="https://github.com/Abradee/SimplyQuests"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Abradee&repo=SimplyQuests&theme=dark&hide_border=true&description_lines_count=2" alt="SimplyQuests" /></a>
 
 ### 📊 GitHub stats
 
