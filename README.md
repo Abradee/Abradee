@@ -2,8 +2,7 @@
 
 **Hi 👋, I'm Abradee**
 
-Primarily a backend developer who builds apps and Minecraft plugins · UTC+8
-
+I'm primarily a backend developer, but I also make and contribute to all kinds of projects. At the moment I have been developing a lot of Minecraft plugins. If you have a question you can contact me at `abradee@proton.me`
 <br clear="both">
 
 ### 🔭 I'm currently working on
