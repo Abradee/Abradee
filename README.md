@@ -23,7 +23,6 @@ I'm primarily a backend developer, but I also make and contribute to all kinds o
   <br/>
   <img src="https://github-profile-trophy-one.vercel.app/?username=Abradee&theme=onedark&column=6&margin-w=8&margin-h=8&no-bg=true&no-frame=false" alt="GitHub trophies" />
   <br/>
-  <img src="https://raw.githubusercontent.com/Abradee/Abradee/activity-graph-output/activity-graph.svg" width="100%" alt="Contribution graph" />
 </div>
 
 ### 💻 Languages & Tools I know
@@ -40,7 +39,3 @@ I'm primarily a backend developer, but I also make and contribute to all kinds o
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Abradee/Abradee/snake-output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
-</div>
